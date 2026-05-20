@@ -1,0 +1,170 @@
+[
+  {
+    "objectID": "updates/index.html",
+    "href": "updates/index.html",
+    "title": "Updates",
+    "section": "",
+    "text": "This page contains any news or updates regarding the modules.\n\n\n\n\n\n\n\n\n\nInitial Website Launch\n\n\n\n\n\n\n\n\nMay 15, 2026\n\n\nCarl F. Falk and Mira Saad\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "modules/variability/index.html",
+    "href": "modules/variability/index.html",
+    "title": "One-way ANOVA",
+    "section": "",
+    "text": "Preview of Interactive Chapter on One-Way ANOVA\n\n\nShinylive Webpage: https://falkcarl.github.io/ANOVAvar/\nCode (GitHub): https://github.com/falkcarl/ANOVAvar\nThis module is presented as a webpage with interactive components, with the intention that it could be considered a chapter in an interactive textbook. It begins with a review of variance before detailing the partitioning of variance in a one-way between-subjects ANOVA. Questions to aid students’ understanding as they progress are sprinkled throughout the text, and interactive components include plots with sliders to independently create more or less between-group (model) and within-group (residual) variability, what the F-distribution looks like a different degrees of freedom, and the tradeoff between model and residual variance in determining the observed \\(F\\)-statistic. It does not (yet) cover other topics that are related to one-way ANOVA, such as assumptions or post-hoc tests."
+  },
+  {
+    "objectID": "modules/power/index.html",
+    "href": "modules/power/index.html",
+    "title": "Statistical Power",
+    "section": "",
+    "text": "Power Analysis Preview"
+  },
+  {
+    "objectID": "modules/power/index.html#about-the-application",
+    "href": "modules/power/index.html#about-the-application",
+    "title": "Statistical Power",
+    "section": "About the application",
+    "text": "About the application\nShinylive Webpage: https://jeremyjjrappel.com/StatisticalPower/\nCode (GitHub): https://github.com/JR-McGill/StatisticalPower/tree/shinylive\nThis module is presented in the style of a brief slide-deck but with interactive components. The setup is a typical two-group analysis and presents the null distribution and alternative distribution conceptually. Students can visualize how effect size, sample size, and alpha affect statistical power, as well as obtain a brief preview to how power analysis for sample size planning may work."
+  },
+  {
+    "objectID": "modules/index.html",
+    "href": "modules/index.html",
+    "title": "Modules",
+    "section": "",
+    "text": "Click on a link to access information about each module. Note that the webpage that contains the interactive module is generally not mobile data friendly. Though it may sometimes run on a mobile device, the files downloaded can be quite large. It is suggested that users access such applications via a reliable (university/school) WiFi or other internet connection.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nCentral Limit Theorem\n\n\nIntroduction to sampling distributions with the sample mean\n\n\n\n\n\n\n\n\n\n\n\n\nStatistical Power\n\n\nSlide deck with visualizations\n\n\n\n\n\n\n\n\n\n\n\n\nHypothesis Testing and \\(p\\)-values\n\n\nOne and two sample means, with review material\n\n\n\n\n\n\n\n\n\n\n\n\nOne-way ANOVA\n\n\nPartitioning of variance\n\n\n\n\n\n\n\n\n\n\n\n\nMultiple linear regression: Assumptions\n\n\nChecks and consequences, using simulations and examples\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Welcome!",
+    "section": "",
+    "text": "This website contains interactive statistics modules aimed to provide students in introductory statistics courses with a more simulation-based, hands-on learning approach to a variety of concepts. The modules were developed in part to experiment with the capabilities of shinylive.\nThe target audience is intended to be undergraduate students in the social sciences, focusing on difficult-to-understand concepts identified in introductory undergraduate courses in Psychology at McGill Univerisity; hence the covered topics parallel those discussed across particular classes. Modules are intended to focus primarily on concepts while attempting to still be technically accurate. Initial topics covered include sampling distributions, power analysis, \\(p\\)-values and hypothesis testing, partitioning of variability in ANOVA, and assumption violations in multiple linear regression.\nThe development of these modules was also a learning experience for us: From troubleshooting coding issues and dependencies with the cutting-edge software used, to the interplay between interactive components and questions in the user interface, and finally to preliminary evaluations of the modules. The sequential development of each module and their current state represents an evolution in our way of thinking about how to best utilize the underlying technology.\nWe hope that some of you—whether at McGill or elsewhere—will find these modules useful and will consider additional development, feedback, or other contributions."
+  },
+  {
+    "objectID": "abt.html",
+    "href": "abt.html",
+    "title": "About This Project",
+    "section": "",
+    "text": "The initial modules were developed in sequence on the following topics:\n\nThe Central Limit Theorem (Sampling distribution of the mean)\nStatistical power\n\\(p\\)-values and hypothesis testing\nPartitioning of variability in one-way ANOVA\nAssumption diagnostics and consequences in multiple linear regression\n\nThese topics may be expanded or other topics added in future iterations of the underlying modules."
+  },
+  {
+    "objectID": "abt.html#topics-covered",
+    "href": "abt.html#topics-covered",
+    "title": "About This Project",
+    "section": "",
+    "text": "The initial modules were developed in sequence on the following topics:\n\nThe Central Limit Theorem (Sampling distribution of the mean)\nStatistical power\n\\(p\\)-values and hypothesis testing\nPartitioning of variability in one-way ANOVA\nAssumption diagnostics and consequences in multiple linear regression\n\nThese topics may be expanded or other topics added in future iterations of the underlying modules."
+  },
+  {
+    "objectID": "abt.html#overview-of-module-structure",
+    "href": "abt.html#overview-of-module-structure",
+    "title": "About This Project",
+    "section": "Overview of Module Structure",
+    "text": "Overview of Module Structure\nWhile developing the interactive modules, we experimented with three styles of presentation:\n\nAn interactive dashboard.\nSlide decks with interactive components.\nA webpage with interactive components or interactive textbook.\n\nWe learned that these various formats lend themselves to different ways of incorporating learning activities and learning check or review questions. Some ways of presenting the modules also appear better/worse for visualizations. Some suggested learning activities are also provided separately, providing flexibility on whether the instructor would like the module to be individual and self-paced, or are part of a live class/group learning activity."
+  },
+  {
+    "objectID": "abt.html#software",
+    "href": "abt.html#software",
+    "title": "About This Project",
+    "section": "Software",
+    "text": "Software\nFor those interested, the developed modules utilized Quarto and shinylive with R as the underlying language used. Slide decks also utilize revealjs. The interactive components generally required Shiny, though use of shinylive allows for the interactive modules to be hosted without requiring a Shiny server. Only a typical webserver suffices and the current modules and code are available on GitHub with a copyleft license (AGPL-3). See each module page for a link to the underlying code."
+  },
+  {
+    "objectID": "abt.html#warning-about-data",
+    "href": "abt.html#warning-about-data",
+    "title": "About This Project",
+    "section": "Warning about Data",
+    "text": "Warning about Data\nIt turns out that use of shinylive results in no need for a Shiny server as the software runs entirely in a webbrowser on the client’s (read: student’s) device. However, this means that the webpage that contains the interactive module is generally not mobile data friendly. Though it may sometimes run on a mobile device, the files downloaded can be quite large. It is suggested that users access such applications via a reliable (university/school) WiFi or other internet connection."
+  },
+  {
+    "objectID": "abt.html#funding",
+    "href": "abt.html#funding",
+    "title": "About This Project",
+    "section": "Funding",
+    "text": "Funding\nThe initial development of the modules was funded by the Small Grants for Teaching Projects opportunity under the title “The Interactive Statistics Project” funded by the Association for Psychological Science."
+  },
+  {
+    "objectID": "abt.html#credit",
+    "href": "abt.html#credit",
+    "title": "About This Project",
+    "section": "Credit",
+    "text": "Credit\nThis website and the modules were developed by members of the Psychology Department at McGill University, based in Montreal, Quebec, alongside PhD and undergraduate students completing degrees in Psychology.\n\nJeremy Rappel: Co-PI, lead programmer and module developer.\nMira Saad: Research assistant, instructional design and feedback, learning check lead, website design.\nDomi Wong: Preliminary evaluation of module efficacy.\nJens Kreitewolf: Co-PI, learning outcome and module design, evaluation supervisor.\nCarl F. Falk: Principal investigator, learning outcome and module design, secondary programmer.\n\nPlease use the following to reference our project: Rappel, J., Saad, M., Wong, D., Kreitewolf, J., & Falk, C. F. (2026). Interactive Statistics Modules using Shinylive. [link]\nWe were initially inspired to give shinylive a whirl based in part on videos and tutorials on its use by James Balamuta (The Coatless Professor).\nhttps://quarto.thecoatlessprofessor.com/r-shinylive-demo/\nhttps://github.com/coatless-quarto/r-shinylive-demo"
+  },
+  {
+    "objectID": "abt.html#accessibility",
+    "href": "abt.html#accessibility",
+    "title": "About This Project",
+    "section": "Accessibility",
+    "text": "Accessibility\nAn attempt has been made to use color palettes that are color-blind friendly. We value feedback to help modify the existing modules for improved accessibility."
+  },
+  {
+    "objectID": "abt.html#contact",
+    "href": "abt.html#contact",
+    "title": "About This Project",
+    "section": "Contact",
+    "text": "Contact\nFor any further accessibility questions or concerns, please contact Carl F. Falk (carl.falk@mail.mcgill.ca)."
+  },
+  {
+    "objectID": "experience.html",
+    "href": "experience.html",
+    "title": "Our Experience",
+    "section": "",
+    "text": "To help others who may use the same technology for teaching and learning, this page will list some of our experience with programming issues using shinylive, attempting to deploy use of the modules in large Psychology courses, and possible future revisions to the applications.\nCheck back here later!"
+  },
+  {
+    "objectID": "modules/clt/index.html",
+    "href": "modules/clt/index.html",
+    "title": "Central Limit Theorem",
+    "section": "",
+    "text": "CLT app preview"
+  },
+  {
+    "objectID": "modules/clt/index.html#about-the-application",
+    "href": "modules/clt/index.html#about-the-application",
+    "title": "Central Limit Theorem",
+    "section": "About the application",
+    "text": "About the application\nShinylive Webpage: https://falkcarl.github.io/clt/\nCode (GitHub): https://github.com/falkcarl/clt\nThis module is presented dashboard-style an in part inspired by the well-known Java/Javascript app by Rice Virtual Lab in Statistics: https://onlinestatbook.com/stat_sim/sampling_dist/. Note that modified versions of this older app are also available (e.g., https://nmimoto.github.io/applets/CLT/index.html).\nOur contributions are twofold.\nFirst, there are several modifications for pedagogical purposes.\n\nThe UI is simplified to avoid overwhelming students with too many obvious things to click on\n\nOnly the sample size and number of sample to draw stand out.\n\n\nBut, other features are still technically available\n\nThe population distribution or displayed information about the plots or dataset is available via clickable gear icons, \n\nInformation about each plot can pop up by hovering over an info icon, \n\n\n\n\nA possible learning activity along with questions also accompanies the dashboard. Currently these appear on the same page below the app. These instructions can also be modified by the instructor to serve their own pedagogical approach.\nSecondly, our app is a shinylive version; the underlying code is R, not Javascript. We envision this as being more readily extensible in future versions to illustrating more kinds of sampling distributions other than just the sample mean or other distributions where the central limit theorem breaks (e.g., Cauchy), and the code is available in the above GitHub repository under an AGPL-3 license. However, some caveats are that shinylive appears to require more overhead in terms of the amount of data to download, can be slightly slower to respond, and we did not implement animation."
+  },
+  {
+    "objectID": "modules/clt/index.html#other-resources",
+    "href": "modules/clt/index.html#other-resources",
+    "title": "Central Limit Theorem",
+    "section": "Other resources",
+    "text": "Other resources\nNot written by us, but this extra reading may be helpful:\nZhang, X., Astivia, O. L. O., Kroc, E., & Zumbo, B. D. (2023). How to think clearly about the central limit theorem. Psychological Methods, 28(6), 1427–1445. https://doi.org/10.1037/met0000448 Preprint version: https://osf.io/d8xz5"
+  },
+  {
+    "objectID": "modules/mlrassume/index.html",
+    "href": "modules/mlrassume/index.html",
+    "title": "Multiple linear regression: Assumptions",
+    "section": "",
+    "text": "Preview of Interactive Chapter on Multiple Linear Regression Assumptions"
+  },
+  {
+    "objectID": "modules/mlrassume/index.html#about-the-application",
+    "href": "modules/mlrassume/index.html#about-the-application",
+    "title": "Multiple linear regression: Assumptions",
+    "section": "About the application",
+    "text": "About the application\nShinylive Webpage: https://falkcarl.github.io/mlrassume/\nCode (GitHub): https://github.com/falkcarl/mlrassume/\nThis module is presented as a webpage with interactive components, with the intention that it could be considered a chapter in an interactive textbook. While typical presentations of the assumptions of multiple linear regression are often static and contain just a few examples, we aimed for something that could generate many more examples and use simulations to illustrate the consequences of assumption violations. Through this approach, we hope that students will also gain an appreciation of how it is that researchers study the robustness of statistical techniques through simulations.\nThe module thus begins with a brief overview of how we might evaluate the robustness of an estimation approach. While traditionally statisticians (or quantitative psychologists, biostatisticians, econometricians, etc.) may focus on traditional theoretical metrics to judge an estimator (e.g., bias, consistency, efficiency, mean-squared error), we avoided formal mathematical notation for these concepts. Instead, we return to the concept of a sampling distribution—a concept that many of our interactive statistics modules emphasize—to illustrate how some of its properties could go wrong.\nStudents then dive into particular assumptions. They can visualize typical diagnostics where datasets at varying levels of nonnormality or heteroscedasticity are generated on the fly. They can also examine what the sampling distribution and consequences might when these assumptions are violated. We found that such simulations were rather computationally intensive for shinylive. At the moment, we focus on just a few assumptions, but intend to add more in the future."
+  },
+  {
+    "objectID": "modules/pvals/index.html",
+    "href": "modules/pvals/index.html",
+    "title": "Hypothesis Testing and \\(p\\)-values",
+    "section": "",
+    "text": "Hypothesis Testing Preview"
+  },
+  {
+    "objectID": "modules/pvals/index.html#about-the-application",
+    "href": "modules/pvals/index.html#about-the-application",
+    "title": "Hypothesis Testing and \\(p\\)-values",
+    "section": "About the application",
+    "text": "About the application\nShinylive Webpage: https://falkcarl.github.io/h0test/\nCode (GitHub): https://github.com/falkcarl/h0test/\nThis module is presented in the style of a slide-deck with interactive components. It also takes advantages of revealjs’s ability to scroll horizontally (the usual way one proceeds through presentations) as well as vertically (for optional reviews or learning checks).\nThe initial goal was to help students understand the difference between \\(p\\)-values and \\(\\alpha\\) and their corresponding obtained test statistic and critical values. In doing so, we provided review of some fundamental concepts: Sampling distributions, normal distributions, standardized scores."
+  },
+  {
+    "objectID": "updates/20260515FirstVersion/index.html",
+    "href": "updates/20260515FirstVersion/index.html",
+    "title": "Initial Website Launch",
+    "section": "",
+    "text": "The first version of the website is launched! Currently it includes just some basic background information about the project and five modules. News items appearing under this part of the menu may appear if any major changes are made."
+  }
+]

@@ -1,0 +1,13 @@
+---
+title: Welcome!
+format: 
+  html
+---
+
+This website contains interactive statistics modules aimed to provide students in introductory statistics courses with a more simulation-based, hands-on learning approach to a variety of concepts. The modules were developed in part to experiment with the capabilities of [shinylive](https://posit-dev.github.io/r-shinylive/).
+
+The target audience is intended to be undergraduate students in the social sciences, focusing on difficult-to-understand concepts identified in introductory undergraduate courses in [Psychology at McGill Univerisity](https://www.mcgill.ca/psychology/); hence the covered topics parallel those discussed across particular classes. Modules are intended to focus primarily on concepts while attempting to still be technically accurate. Initial topics covered include sampling distributions, power analysis, $p$-values and hypothesis testing, partitioning of variability in ANOVA, and assumption violations in multiple linear regression.
+
+The development of these modules was also a learning experience for us: From troubleshooting coding issues and dependencies with the cutting-edge software used, to the interplay between interactive components and questions in the user interface, and finally to preliminary evaluations of the modules. The sequential development of each module and their current state represents an evolution in our way of thinking about how to best utilize the underlying technology.
+
+We hope that some of you---whether at McGill or elsewhere---will find these modules useful and will consider additional development, feedback, or other contributions.

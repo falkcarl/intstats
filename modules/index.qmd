@@ -1,0 +1,10 @@
+---
+title: "Modules"
+listing:
+  id: modules
+  type: grid
+  fields: [image, title, subtitle]
+page-layout: full
+---
+
+Click on a link to access information about each module. Note that the webpage that contains the interactive module is generally **not mobile data friendly**. Though it may sometimes run on a mobile device, the files downloaded can be quite large. It is suggested that users access such applications via a reliable (university/school) WiFi or other internet connection.

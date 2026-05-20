@@ -1,0 +1,10 @@
+---
+title: "Updates"
+listing:
+  id: updates
+  #type: grid
+  fields: [title, subtitle, date, author]
+page-layout: full
+---
+
+This page contains any news or updates regarding the modules.

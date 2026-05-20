@@ -1,0 +1,9 @@
+---
+title: "Our Experience"
+format:
+  html
+---
+
+To help others who may use the same technology for teaching and learning, this page will list some of our experience with programming issues using [shinylive](https://posit-dev.github.io/r-shinylive/), attempting to deploy use of the modules in large Psychology courses, and possible future revisions to the applications.
+
+Check back here later!

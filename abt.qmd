@@ -1,0 +1,70 @@
+---
+title: About This Project
+format:
+  html
+---
+
+## Topics Covered
+
+The initial modules were developed in sequence on the following topics:
+
+- The Central Limit Theorem (Sampling distribution of the mean)
+- Statistical power
+- $p$-values and hypothesis testing
+- Partitioning of variability in one-way ANOVA
+- Assumption diagnostics and consequences in multiple linear regression
+
+These topics may be expanded or other topics added in future iterations of the underlying modules.
+
+## Overview of Module Structure
+
+While developing the interactive modules, we experimented with three styles of presentation:
+
+1. An interactive dashboard.
+2. Slide decks with interactive components.
+3. A webpage with interactive components or interactive textbook.
+
+We learned that these various formats lend themselves to different ways of incorporating learning activities and learning check or review questions. Some ways of presenting the modules also appear better/worse for visualizations. Some suggested learning activities are also provided separately, providing flexibility on whether the instructor would like the module to be individual and self-paced, or are part of a live class/group learning activity.
+
+## Software
+
+For those interested, the developed modules utilized [Quarto](https://quarto.org/) and [shinylive](https://posit-dev.github.io/r-shinylive/) with [R](https://www.r-project.org/) as the underlying language used. Slide decks also utilize [revealjs](https://quarto.org/docs/presentations/revealjs/). The interactive components generally required [Shiny](https://shiny.posit.co/), though use of shinylive allows for the interactive modules to be hosted without requiring a Shiny server. Only a typical webserver suffices and the current modules and code are available on GitHub with a copyleft license (AGPL-3). See each module page for a link to the underlying code.
+
+## Warning about Data
+
+It turns out that use of [shinylive](https://posit-dev.github.io/r-shinylive/) results in no need for a Shiny server as the software runs entirely in a webbrowser on the client's (read: student's) device. However, this means that the webpage that contains the interactive module is generally **not mobile data friendly**. Though it may sometimes run on a mobile device, the files downloaded can be quite large. It is suggested that users access such applications via a reliable (university/school) WiFi or other internet connection.
+
+## Funding
+
+The initial development of the modules was funded by the Small Grants for Teaching Projects opportunity under the title "The Interactive Statistics Project" funded by the [Association for Psychological Science](https://www.psychologicalscience.org/).
+
+## Credit
+
+This website and the modules were developed by members of the [Psychology Department at McGill University](https://www.mcgill.ca/psychology/), based in Montreal, Quebec, alongside PhD and undergraduate students completing degrees in Psychology.
+
+- [Jeremy Rappel](https://jeremyjjrappel.com/): Co-PI, lead programmer and module developer.
+- Mira Saad: Research assistant, instructional design and feedback, learning check lead, website design.
+- Domi Wong: Preliminary evaluation of module efficacy.
+- [Jens Kreitewolf](https://www.mcgill.ca/psychology/jens-kreitewolf): Co-PI, learning outcome and module design, evaluation supervisor.
+- [Carl F. Falk](https://www.psych.mcgill.ca/perpg/fac/falk/): Principal investigator, learning outcome and module design, secondary  programmer.
+
+Please use the following to reference our project: Rappel, J., Saad, M., Wong, D., Kreitewolf, J., & Falk, C. F. (2026). *Interactive Statistics Modules using Shinylive*. [link]
+
+We were initially inspired to give shinylive a whirl based in part on videos and tutorials on its use by [James Balamuta (The Coatless Professor)](https://thecoatlessprofessor.com/).
+
+[https://quarto.thecoatlessprofessor.com/r-shinylive-demo/](https://quarto.thecoatlessprofessor.com/r-shinylive-demo/)
+
+[https://github.com/coatless-quarto/r-shinylive-demo](https://github.com/coatless-quarto/r-shinylive-demo)
+
+
+<!--, and some modules use his ["details" quarto extension](https://github.com/coatless-quarto/details).-->
+
+## Accessibility 
+
+An attempt has been made to use color palettes that are color-blind friendly. We value feedback to help modify the existing modules for improved accessibility.
+
+<!--All resources are openly accessible and free of charge. Additionally, all employed color schemes are color-blind friendly.-->
+
+## Contact 
+
+For any further accessibility questions or concerns, please contact Carl F. Falk ([carl.falk@mail.mcgill.ca](mailto:carl.falk@mcgill.ca)).

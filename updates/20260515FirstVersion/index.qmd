@@ -1,0 +1,9 @@
+---
+title: "Initial Website Launch"
+author: Carl F. Falk and Mira Saad
+date: 2026-05-15
+#subtitle: 'Introduction to sampling distributions with the sample mean'
+#image: "clt1.png"
+---
+
+The first version of the website is launched! Currently it includes just some basic background information about the project and five modules. News items appearing under this part of the menu may appear if any major changes are made.

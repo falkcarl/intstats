@@ -1,0 +1,47 @@
+
+project:
+  type: website
+  output-dir: docs  
+  preview:
+    browser: true
+    watch-inputs: true
+    timeout: 3600
+    
+execute:
+  freeze: auto
+
+website:
+  title: "Interactive Statistics Modules using Shinylive"
+  navbar:
+
+    pinned: true
+  
+    left:
+      - text: About
+        icon: body-text
+        href: abt.qmd
+
+      - text: Modules
+        icon: puzzle
+        href: modules/index.qmd
+        
+      - text: Updates
+        icon: bell
+        href: updates/index.qmd
+       
+      - text: Our Experience
+        icon: lightbulb
+        href: experience.qmd
+
+  page-footer:
+    border: true
+
+format:
+  html:
+    toc: true
+    link-external-icon: false
+    link-external-newwindow: true
+    smooth-scroll: true
+    code-link: true
+    highlight-style: a11y
+    

@@ -1,0 +1,18 @@
+[
+  {
+    "listing": "/updates/index.html",
+    "items": [
+      "/updates/20260515FirstVersion/index.html"
+    ]
+  },
+  {
+    "listing": "/modules/index.html",
+    "items": [
+      "/modules/clt/index.html",
+      "/modules/power/index.html",
+      "/modules/pvals/index.html",
+      "/modules/variability/index.html",
+      "/modules/mlrassume/index.html"
+    ]
+  }
+]
