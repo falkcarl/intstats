@@ -36,7 +36,7 @@ It turns out that use of [shinylive](https://posit-dev.github.io/r-shinylive/) r
 
 ## Funding
 
-The initial development of the modules was funded by the Small Grants for Teaching Projects (APS Fund for Teaching and Public Understanding of Psychological Science) opportunity under the title "The Interactive Statistics Project" funded by the [Association for Psychological Science](https://www.psychologicalscience.org/).
+The initial development of the modules was funded by the Small Grants for Teaching Projects from the [Association for Psychological Science](https://www.psychologicalscience.org/) (APS Fund for Teaching and Public Understanding of Psychological Science) under the title "The Interactive Statistics Project".
 
 ## Credit
 

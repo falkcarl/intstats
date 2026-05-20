@@ -81,7 +81,7 @@
     "href": "abt.html#funding",
     "title": "About This Project",
     "section": "Funding",
-    "text": "Funding\nThe initial development of the modules was funded by the Small Grants for Teaching Projects (APS Fund for Teaching and Public Understanding of Psychological Science) opportunity under the title “The Interactive Statistics Project” funded by the Association for Psychological Science."
+    "text": "Funding\nThe initial development of the modules was funded by the Small Grants for Teaching Projects from the Association for Psychological Science (APS Fund for Teaching and Public Understanding of Psychological Science) under the title “The Interactive Statistics Project”."
   },
   {
     "objectID": "abt.html#credit",
@@ -123,7 +123,7 @@
     "href": "modules/clt/index.html#about-the-application",
     "title": "Central Limit Theorem",
     "section": "About the application",
-    "text": "About the application\nShinylive Webpage: https://falkcarl.github.io/clt/\nCode (GitHub): https://github.com/falkcarl/clt\nThis module is presented dashboard-style an in part inspired by the well-known Java/Javascript app by Rice Virtual Lab in Statistics: https://onlinestatbook.com/stat_sim/sampling_dist/. Note that modified versions of this older app are also available (e.g., https://nmimoto.github.io/applets/CLT/index.html).\nOur contributions are twofold.\nFirst, there are several modifications for pedagogical purposes.\n\nThe UI is simplified to avoid overwhelming students with too many obvious things to click on\n\nOnly the sample size and number of sample to draw stand out.\n\n\nBut, other features are still technically available\n\nThe population distribution or displayed information about the plots or dataset is available via clickable gear icons, \n\nInformation about each plot can pop up by hovering over an info icon, \n\n\n\n\nA possible learning activity along with questions also accompanies the dashboard. Currently these appear on the same page below the app. These instructions can also be modified by the instructor to serve their own pedagogical approach.\nSecondly, our app is a shinylive version; the underlying code is R, not Javascript. We envision this as being more readily extensible in future versions to illustrating more kinds of sampling distributions other than just the sample mean or other distributions where the central limit theorem breaks (e.g., Cauchy), and the code is available in the above GitHub repository under an AGPL-3 license. However, some caveats are that shinylive appears to require more overhead in terms of the amount of data to download, can be slightly slower to respond, and we did not implement animation."
+    "text": "About the application\nShinylive Webpage: https://falkcarl.github.io/clt/\nCode (GitHub): https://github.com/falkcarl/clt\nThis module is presented dashboard-style an in part inspired by the well-known Java/Javascript app by Rice Virtual Lab in Statistics: https://onlinestatbook.com/stat_sim/sampling_dist/. Note that modified versions of this older app are also available (e.g., https://nmimoto.github.io/applets/CLT/index.html).\nOur contributions are twofold.\nFirst, there are several modifications for pedagogical purposes.\n\nThe UI is simplified to avoid overwhelming students with too many obvious things to click on\n\nOnly the sample size and number of sample to draw stand out.\n\n\nBut, other features are still technically available\n\nThe population distribution or displayed information about the plots or dataset is available via clickable gear icons, \n\nInformation about each plot can pop up by hovering over an info icon, \n\n\n\n\nA possible learning activity along with questions also accompanies the dashboard. Currently these appear on the same page below the app, though some of the questions are currently under revision. The instructor may of course design their own learning activity that uses the application to serve their own pedagogical approach.\nSecondly, our app is a shinylive version; the underlying code is R, not Javascript. We envision this as being more readily extensible in future versions to illustrating more kinds of sampling distributions other than just the sample mean or other distributions where the central limit theorem breaks (e.g., Cauchy), and the code is available in the above GitHub repository under an AGPL-3 license. However, some caveats are that shinylive appears to require more overhead in terms of the amount of data to download, can be slightly slower to respond, and we did not implement animation."
   },
   {
     "objectID": "modules/clt/index.html#other-resources",
@@ -166,5 +166,12 @@
     "title": "Initial Website Launch",
     "section": "",
     "text": "The first version of the website is launched! Currently it includes just some basic background information about the project and five modules. News items appearing under this part of the menu may appear if any major changes are made."
+  },
+  {
+    "objectID": "abt.html#warning-about-mobile-data",
+    "href": "abt.html#warning-about-mobile-data",
+    "title": "About This Project",
+    "section": "Warning about Mobile Data",
+    "text": "Warning about Mobile Data\nIt turns out that use of shinylive results in no need for a Shiny server as the software runs entirely in a webbrowser on the client’s (read: student’s) device. However, this means that the webpage that contains the interactive module is generally not mobile data friendly. Though it may sometimes run on a mobile device, the files downloaded can be quite large. It is suggested that users access such applications via a reliable (university/school) WiFi or other internet connection."
   }
 ]

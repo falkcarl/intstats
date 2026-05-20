@@ -29,7 +29,7 @@ First, there are several modifications for pedagogical purposes.
     - The population distribution or displayed information about the plots or dataset is available via clickable gear icons, `r shiny::icon("gear")`
     - Information about each plot can pop up by hovering over an info icon, `r shiny::icon("info-circle")`
 
-A possible learning activity along with questions also accompanies the dashboard. Currently these appear on the same page below the app. These instructions can also be modified by the instructor to serve their own pedagogical approach.
+A possible learning activity along with questions also accompanies the dashboard. Currently these appear on the same page below the app, though some of the questions are currently under revision. The instructor may of course design their own learning activity that uses the application to serve their own pedagogical approach.
 
 Secondly, our app is a [shinylive](https://posit-dev.github.io/r-shinylive/) version; the underlying code is R, not Javascript. We envision this as being more readily extensible in future versions to illustrating more kinds of sampling distributions other than just the sample mean or other distributions where the central limit theorem breaks (e.g., Cauchy), and the code is available in the above GitHub repository under an AGPL-3 license. However, some caveats are that shinylive appears to require more overhead in terms of the amount of data to download, can be slightly slower to respond, and we did not implement animation.
 
