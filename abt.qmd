@@ -48,7 +48,7 @@ This website and the modules were developed by members of the [Psychology Depart
 - [Jens Kreitewolf](https://www.mcgill.ca/psychology/jens-kreitewolf): Co-PI, learning outcome and module design, evaluation supervisor.
 - [Carl F. Falk](https://www.psych.mcgill.ca/perpg/fac/falk/): Principal investigator, learning outcome and module design, secondary  programmer.
 
-Please use the following to reference our project: Rappel, J., Saad, M., Wong, D., Kreitewolf, J., & Falk, C. F. (2026). *Interactive Statistics Modules using Shinylive*. [link]
+Please use the following to reference our project: Rappel, J., Saad, M., Wong, D., Kreitewolf, J., & Falk, C. F. (2026). *Interactive Statistics Modules using Shinylive*. https://falkcarl.github.io/intstats/
 
 We were initially inspired to give shinylive a whirl based in part on videos and tutorials on its use by [James Balamuta (The Coatless Professor)](https://thecoatlessprofessor.com/).
 
