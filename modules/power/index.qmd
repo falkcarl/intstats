@@ -1,6 +1,6 @@
 ---
 title: "Statistical Power"
-subtitle: "Slide deck with visualizations"
+subtitle: "An introduction with a sample mean"
 image: "power.png"
 order: 2
 ---

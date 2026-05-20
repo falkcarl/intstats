@@ -30,13 +30,13 @@ We learned that these various formats lend themselves to different ways of incor
 
 For those interested, the developed modules utilized [Quarto](https://quarto.org/) and [shinylive](https://posit-dev.github.io/r-shinylive/) with [R](https://www.r-project.org/) as the underlying language used. Slide decks also utilize [revealjs](https://quarto.org/docs/presentations/revealjs/). The interactive components generally required [Shiny](https://shiny.posit.co/), though use of shinylive allows for the interactive modules to be hosted without requiring a Shiny server. Only a typical webserver suffices and the current modules and code are available on GitHub with a copyleft license (AGPL-3). See each module page for a link to the underlying code.
 
-## Warning about Data
+## Warning about Mobile Data
 
 It turns out that use of [shinylive](https://posit-dev.github.io/r-shinylive/) results in no need for a Shiny server as the software runs entirely in a webbrowser on the client's (read: student's) device. However, this means that the webpage that contains the interactive module is generally **not mobile data friendly**. Though it may sometimes run on a mobile device, the files downloaded can be quite large. It is suggested that users access such applications via a reliable (university/school) WiFi or other internet connection.
 
 ## Funding
 
-The initial development of the modules was funded by the Small Grants for Teaching Projects opportunity under the title "The Interactive Statistics Project" funded by the [Association for Psychological Science](https://www.psychologicalscience.org/).
+The initial development of the modules was funded by the Small Grants for Teaching Projects (APS Fund for Teaching and Public Understanding of Psychological Science) opportunity under the title "The Interactive Statistics Project" funded by the [Association for Psychological Science](https://www.psychologicalscience.org/).
 
 ## Credit
 
