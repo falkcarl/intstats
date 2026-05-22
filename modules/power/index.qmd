@@ -9,7 +9,7 @@ order: 2
 
 ## About the application
 
-Shinylive Webpage: [https://jeremyjjrappel.com/StatisticalPower/](https://jeremyjjrappel.com/StatisticalPower/)
+Shinylive Webpage: [https://jeremyjjrappel.com/StatisticalPower/](https://jeremyjjrappel.com/StatisticalPower/) (to advance the slides, use the right arrow on the keyboard)
 
 Code (GitHub): [https://github.com/JR-McGill/StatisticalPower/tree/shinylive](https://github.com/JR-McGill/StatisticalPower/tree/shinylive)
 

@@ -18,13 +18,13 @@ These topics may be expanded or other topics added in future iterations of the u
 
 ## Overview of Module Structure
 
-While developing the interactive modules, we experimented with three styles of presentation:
+While developing the interactive modules, we used three styles of presentation:
 
 1. An interactive dashboard.
 2. Slide decks with interactive components.
 3. A webpage with interactive components or interactive textbook.
 
-We learned that these various formats lend themselves to different ways of incorporating learning activities and learning check or review questions. Some ways of presenting the modules also appear better/worse for visualizations. Some suggested learning activities are also provided separately, providing flexibility on whether the instructor would like the module to be individual and self-paced, or are part of a live class/group learning activity.
+We learned that these various formats lend themselves to different ways of incorporating learning activities and learning check or review questions. Some ways of presenting the modules also appear better/worse for visualizations. Some suggested learning activities could be provided separately, offering flexibility on whether the instructor would like the module to be individual and self-paced, or are part of a live class/group learning activity.
 
 ## Software
 

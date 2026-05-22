@@ -25,21 +25,21 @@
     "href": "modules/power/index.html#about-the-application",
     "title": "Statistical Power",
     "section": "About the application",
-    "text": "About the application\nShinylive Webpage: https://jeremyjjrappel.com/StatisticalPower/\nCode (GitHub): https://github.com/JR-McGill/StatisticalPower/tree/shinylive\nThis module is presented in the style of a brief slide-deck but with interactive components. The setup is a typical two-group analysis and presents the null distribution and alternative distribution conceptually. Students can visualize how effect size, sample size, and alpha affect statistical power, as well as obtain a brief preview to how power analysis for sample size planning may work."
+    "text": "About the application\nShinylive Webpage: https://jeremyjjrappel.com/StatisticalPower/ (to advance the slides, use the right arrow on the keyboard)\nCode (GitHub): https://github.com/JR-McGill/StatisticalPower/tree/shinylive\nThis module is presented in the style of a brief slide-deck but with interactive components. The setup is a typical two-group analysis and presents the null distribution and alternative distribution conceptually. Students can visualize how effect size, sample size, and alpha affect statistical power, as well as obtain a brief preview to how power analysis for sample size planning may work."
   },
   {
     "objectID": "modules/index.html",
     "href": "modules/index.html",
     "title": "Modules",
     "section": "",
-    "text": "Click on a link to access information about each module. Note that the webpage that contains the interactive module is generally not mobile data friendly. Though it may sometimes run on a mobile device, the files downloaded can be quite large. It is suggested that users access such applications via a reliable (university/school) WiFi or other internet connection.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nCentral Limit Theorem\n\n\nIntroduction to sampling distributions with the sample mean\n\n\n\n\n\n\n\n\n\n\n\n\nStatistical Power\n\n\nSlide deck with visualizations\n\n\n\n\n\n\n\n\n\n\n\n\nHypothesis Testing and \\(p\\)-values\n\n\nOne and two sample means, with review material\n\n\n\n\n\n\n\n\n\n\n\n\nOne-way ANOVA\n\n\nPartitioning of variance\n\n\n\n\n\n\n\n\n\n\n\n\nMultiple linear regression: Assumptions\n\n\nChecks and consequences, using simulations and examples\n\n\n\n\n\nNo matching items"
+    "text": "Click on a link to access information about each module. Note that the webpage that contains the interactive module is generally not mobile data friendly. Though it may sometimes run on a mobile device, the files downloaded can be quite large. It is suggested that users access such applications via a reliable (university/school) WiFi or other internet connection.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nCentral Limit Theorem\n\n\nIntroduction to sampling distributions with the sample mean\n\n\n\n\n\n\n\n\n\n\n\n\nStatistical Power\n\n\nAn introduction with a sample mean\n\n\n\n\n\n\n\n\n\n\n\n\nHypothesis Testing and \\(p\\)-values\n\n\nOne and two sample means, with review material\n\n\n\n\n\n\n\n\n\n\n\n\nOne-way ANOVA\n\n\nPartitioning of variance\n\n\n\n\n\n\n\n\n\n\n\n\nMultiple linear regression: Assumptions\n\n\nChecks and consequences, using simulations and examples\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Welcome!",
     "section": "",
-    "text": "This website contains interactive statistics modules aimed to provide students in introductory statistics courses with a more simulation-based, hands-on learning approach to a variety of concepts. The modules were developed in part to experiment with the capabilities of shinylive.\nThe target audience is intended to be undergraduate students in the social sciences, focusing on difficult-to-understand concepts identified in introductory undergraduate courses in Psychology at McGill University; hence the covered topics parallel those discussed across particular classes. Modules are intended to focus primarily on concepts while attempting to still be technically accurate. Initial topics covered include:\n\nSampling distributions\nPower analysis\n\\(p\\)-values and hypothesis testing\nPartitioning of variability in ANOVA\nAssumption violations in multiple linear regression\n\nThe development of these modules was also a learning experience for us: From troubleshooting coding issues and dependencies with the cutting-edge software used, to the interplay between interactive components and questions in the user interface, and finally to preliminary evaluations of the modules. The sequential development of each module and their current state represents an evolution in our way of thinking about how to best utilize the underlying technology.\nWe hope that some of you—whether at McGill University or elsewhere—will find these modules useful and will consider additional development, feedback, or other contributions."
+    "text": "This website contains interactive statistics modules aimed to provide students in introductory statistics courses with a more simulation-based, hands-on learning approach to a variety of concepts.\nThe target audience is intended to be undergraduate students in the social sciences, focusing on difficult-to-understand concepts identified in introductory undergraduate courses in Psychology at McGill University; hence the covered topics parallel those discussed across particular classes. Modules are intended to focus primarily on concepts while attempting to still be technically accurate. Initial topics covered include:\n\nSampling distributions\nPower analysis\n\\(p\\)-values and hypothesis testing\nPartitioning of variability in ANOVA\nAssumption violations in multiple linear regression\n\nThe modules were developed in part to experiment with the capabilities of shinylive. The development of these modules was also a learning experience for us: From troubleshooting coding issues and dependencies with the cutting-edge software used, to the interplay between interactive components and questions in the user interface, and finally to preliminary evaluations of the modules. The sequential development of each module and their current state represents an evolution in our way of thinking about how to best utilize the underlying technology.\nWe hope that some of you will find these modules useful and consider additional development, feedback, or other contributions."
   },
   {
     "objectID": "abt.html",
@@ -60,7 +60,7 @@
     "href": "abt.html#overview-of-module-structure",
     "title": "About This Project",
     "section": "Overview of Module Structure",
-    "text": "Overview of Module Structure\nWhile developing the interactive modules, we experimented with three styles of presentation:\n\nAn interactive dashboard.\nSlide decks with interactive components.\nA webpage with interactive components or interactive textbook.\n\nWe learned that these various formats lend themselves to different ways of incorporating learning activities and learning check or review questions. Some ways of presenting the modules also appear better/worse for visualizations. Some suggested learning activities are also provided separately, providing flexibility on whether the instructor would like the module to be individual and self-paced, or are part of a live class/group learning activity."
+    "text": "Overview of Module Structure\nWhile developing the interactive modules, we used three styles of presentation:\n\nAn interactive dashboard.\nSlide decks with interactive components.\nA webpage with interactive components or interactive textbook.\n\nWe learned that these various formats lend themselves to different ways of incorporating learning activities and learning check or review questions. Some ways of presenting the modules also appear better/worse for visualizations. Some suggested learning activities could be provided separately, offering flexibility on whether the instructor would like the module to be individual and self-paced, or are part of a live class/group learning activity."
   },
   {
     "objectID": "abt.html#software",
@@ -70,11 +70,11 @@
     "text": "Software\nFor those interested, the developed modules utilized Quarto and shinylive with R as the underlying language used. Slide decks also utilize revealjs. The interactive components generally required Shiny, though use of shinylive allows for the interactive modules to be hosted without requiring a Shiny server. Only a typical webserver suffices and the current modules and code are available on GitHub with a copyleft license (AGPL-3). See each module page for a link to the underlying code."
   },
   {
-    "objectID": "abt.html#warning-about-data",
-    "href": "abt.html#warning-about-data",
+    "objectID": "abt.html#warning-about-mobile-data",
+    "href": "abt.html#warning-about-mobile-data",
     "title": "About This Project",
-    "section": "Warning about Data",
-    "text": "Warning about Data\nIt turns out that use of shinylive results in no need for a Shiny server as the software runs entirely in a webbrowser on the client’s (read: student’s) device. However, this means that the webpage that contains the interactive module is generally not mobile data friendly. Though it may sometimes run on a mobile device, the files downloaded can be quite large. It is suggested that users access such applications via a reliable (university/school) WiFi or other internet connection."
+    "section": "Warning about Mobile Data",
+    "text": "Warning about Mobile Data\nIt turns out that use of shinylive results in no need for a Shiny server as the software runs entirely in a webbrowser on the client’s (read: student’s) device. However, this means that the webpage that contains the interactive module is generally not mobile data friendly. Though it may sometimes run on a mobile device, the files downloaded can be quite large. It is suggested that users access such applications via a reliable (university/school) WiFi or other internet connection."
   },
   {
     "objectID": "abt.html#funding",
@@ -158,7 +158,7 @@
     "href": "modules/pvals/index.html#about-the-application",
     "title": "Hypothesis Testing and \\(p\\)-values",
     "section": "About the application",
-    "text": "About the application\nShinylive Webpage: https://falkcarl.github.io/h0test/\nCode (GitHub): https://github.com/falkcarl/h0test/\nThis module is presented in the style of a slide-deck with interactive components. It also takes advantages of revealjs’s ability to scroll horizontally (the usual way one proceeds through presentations) as well as vertically (for optional reviews or learning checks).\nThe initial goal was to help students understand the difference between \\(p\\)-values and \\(\\alpha\\) and their corresponding obtained test statistic and critical values. In doing so, we provided review of some fundamental concepts: Sampling distributions, normal distributions, standardized scores."
+    "text": "About the application\nShinylive Webpage: https://falkcarl.github.io/h0test/ (to advance the slides, use the right arrow on the keyboard)\nCode (GitHub): https://github.com/falkcarl/h0test/\nThis module is presented in the style of a slide-deck with interactive components. It also takes advantages of revealjs’s ability to scroll horizontally (the usual way one proceeds through presentations) as well as vertically (for optional reviews or learning checks).\nThe initial goal was to help students understand the difference between \\(p\\)-values and \\(\\alpha\\) and their corresponding obtained test statistic and critical values. In doing so, we provided review of some fundamental concepts: Sampling distributions, normal distributions, standardized scores."
   },
   {
     "objectID": "updates/20260515FirstVersion/index.html",
@@ -166,12 +166,5 @@
     "title": "Initial Website Launch",
     "section": "",
     "text": "The first version of the website is launched! Currently it includes just some basic background information about the project and five modules. News items appearing under this part of the menu may appear if any major changes are made."
-  },
-  {
-    "objectID": "abt.html#warning-about-mobile-data",
-    "href": "abt.html#warning-about-mobile-data",
-    "title": "About This Project",
-    "section": "Warning about Mobile Data",
-    "text": "Warning about Mobile Data\nIt turns out that use of shinylive results in no need for a Shiny server as the software runs entirely in a webbrowser on the client’s (read: student’s) device. However, this means that the webpage that contains the interactive module is generally not mobile data friendly. Though it may sometimes run on a mobile device, the files downloaded can be quite large. It is suggested that users access such applications via a reliable (university/school) WiFi or other internet connection."
   }
 ]

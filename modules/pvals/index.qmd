@@ -9,7 +9,7 @@ order: 3
 
 ## About the application
 
-Shinylive Webpage: [https://falkcarl.github.io/h0test/](https://falkcarl.github.io/h0test/)
+Shinylive Webpage: [https://falkcarl.github.io/h0test/](https://falkcarl.github.io/h0test/) (to advance the slides, use the right arrow on the keyboard)
 
 Code (GitHub): [https://github.com/falkcarl/h0test/](https://github.com/falkcarl/h0test/)
 
